@@ -33,5 +33,5 @@ Le plus généralement, ils forment des formes carrées/rectangulaires/hexagonal
 #
 > Démonstration :
 
-![Alt Text](https://github.com/mir-ak/kohonen_som/blob/main/Som_classique/image_som.png)
+![Alt Text](https://github.com/mir-ak/kohonen_som/blob/main/Som_classique/som_cl.png)
 ![Alt Text](https://github.com/mir-ak/kohonen_som/blob/main/Som_version_Graphique_SDL/image_som.png)
