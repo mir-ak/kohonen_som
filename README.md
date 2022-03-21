@@ -28,8 +28,6 @@ Le plus généralement, ils forment des formes carrées/rectangulaires/hexagonal
 * Le poids gagnant est récompensé en devenant plus comme le vecteur échantillon. Les voisins deviennent également plus comme le vecteur échantillon. Plus un nœud est proche du BMU, plus ses poids sont modifiés et plus le voisin est éloigné du BMU, moins il apprend.
 * Répétez les étapes pour N itérations.
 
-#    
-
 #
 > Démonstration :
 
